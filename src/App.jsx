@@ -10,6 +10,7 @@ function App() {
       <TimeChallenge title="not east" targetTime={5}/>
       <TimeChallenge title="hard" targetTime={10}/>  
       <TimeChallenge title="too hard" targetTime={15}/>
+      <TimeChallenge title=" hard pro" targetTime={20}/>
       </div>
     </>
   );
